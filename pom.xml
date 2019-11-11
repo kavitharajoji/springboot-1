@@ -64,11 +64,11 @@
 			<version>2.9.2</version>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-  <snapshotRepository>
-    <id>nexus</id>
-    <url>http://15.206.159.49:8081/nexus/content/repositories/snapshots</url>
-  </snapshotRepository>
+<distributionManagement>
+         <snapshotRepository>
+          <id>nexus</id>
+          <url>http://13.233.88.73:8081/nexus/content/repositories/snapshots</url>
+         </snapshotRepository>
 </distributionManagement>
 
 	<build>
